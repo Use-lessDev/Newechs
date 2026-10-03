@@ -1,7 +1,0 @@
-name: "new-techs"
-displayName: "New Tech's"
-author: "Gubby"
-description: "Research upgrades for your buildings and unlock them in-game.\n\nHow to use:\n1. Pause the game and open New Tech's.\n2. Pick a category and a block.\n3. Research upgrades, then install them on your buildings.\n\nContracts, specialization, ally gifts, shop and missions included."
-version: "1.19.5"
-minGameVersion: "146"
-hidden: false
